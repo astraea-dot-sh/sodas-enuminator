@@ -1,0 +1,2 @@
+nmap:/usr/bin/nmap
+rustscan:/usr/bin/rustscan
