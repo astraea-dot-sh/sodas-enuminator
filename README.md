@@ -1,0 +1,1 @@
+Project started as a collab with some other people in cyber security, this was a very early draft on what we might do to make this tool, this project was just made for a showcase, but it got scrapped very fast. Now it's **archived**.
